@@ -6,3 +6,4 @@ beautifulsoup4==4.10.0
 networkx==2.6.3
 lightgbm==3.3.5
 scikit-learn
+gunicorn
